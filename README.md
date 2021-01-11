@@ -13,9 +13,10 @@ The contact page includes three prompts; your email address, your name, and any 
 
 ![screencapture-al0harussia-github-io-Kyle-Gates-Portfolio-contact-html-2020-11-14-17_02_56](https://user-images.githubusercontent.com/70537665/99160527-18a32c80-269d-11eb-868f-c8a11381f341.png)
 
-The portfolio gallery display current works written by Kyle Gates, and will be updated as he progress his coding bootcamp.
+The portfolio gallery display current works written by Kyle Gates, and will be updated as he progress his coding bootcamp. To access the works, click on the image.
 
-![screencapture-al0harussia-github-io-Kyle-Gates-Portfolio-portfolio-html-2020-11-14-17_02_48](https://user-images.githubusercontent.com/70537665/99160530-23f65800-269d-11eb-9453-0b17b9b94702.png)
+![portoflio-picture](https://user-images.githubusercontent.com/70537665/104240706-590af680-5411-11eb-953f-77977facface.png)
+
 
 Link to Webpage: https://al0harussia.github.io/Kyle-Gates-Portfolio/index.html
 
