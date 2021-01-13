@@ -9,9 +9,11 @@ The about me page includes a profile image, two paragraphs(One for education and
 
 ![screencapture-al0harussia-github-io-Kyle-Gates-Portfolio-index-html-2020-11-14-17_02_24](https://user-images.githubusercontent.com/70537665/99160518-088b4d00-269d-11eb-80c4-16f4860573a5.png)
 
-The contact page includes three prompts; your email address, your name, and any message you wish to include, which all are submitted via the submit button at the bottom of these three prompts. There is also a section dedicated to other forms of media as well.
+The contact page includes three prompts; your email address, your name, and any message you wish to include, which all are submitted via the submit button at the bottom of these three prompts. There is also a section dedicated to other forms of media such as a phone number and email, as well including links for Linkedin and Github. The resume link takes you to a seperate page which displays the resume and also a link to download a PDF of the resume
 
-![screencapture-al0harussia-github-io-Kyle-Gates-Portfolio-contact-html-2020-11-14-17_02_56](https://user-images.githubusercontent.com/70537665/99160527-18a32c80-269d-11eb-868f-c8a11381f341.png)
+![screencapture-file-C-Users-Kyle-Desktop-code-Kyle-Gates-Portfolio-contact-html-2021-01-12-21_48_38](https://user-images.githubusercontent.com/70537665/104412079-75e21f80-5520-11eb-96ea-0b3a3f3e5a36.png)
+
+![screencapture-file-C-Users-Kyle-Desktop-code-Kyle-Gates-Portfolio-resume-html-2021-01-12-21_55_59](https://user-images.githubusercontent.com/70537665/104412385-fef95680-5520-11eb-8f65-0009546c9dc0.png)
 
 The portfolio gallery display current works written by Kyle Gates, and will be updated as he progress his coding bootcamp. To access the works, click on the image.
 
