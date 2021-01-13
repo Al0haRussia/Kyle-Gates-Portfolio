@@ -18,7 +18,7 @@ The portfolio gallery display current works written by Kyle Gates, and will be u
 ![portoflio-picture](https://user-images.githubusercontent.com/70537665/104240706-590af680-5411-11eb-953f-77977facface.png)
 
 
-Link to Webpage: https://al0harussia.github.io/Kyle-Gates-Portfolio/index.html
+<a href="https://al0harussia.github.io/Kyle-Gates-Portfolio/index.html">Webpage</a>
 
 <br>
 <br>
